@@ -5,7 +5,7 @@ django-cors-headers==3.1.0
 django-excel-response2==2.0.8
 django-rest-framework==0.1.0
 django-six==1.0.4
-djangorestframework==3.10.2
+djangorestframework==3.11.2
 graphene==2.1.7
 graphene-django==2.4.0
 graphql-core==2.2.1
